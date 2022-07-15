@@ -1,0 +1,250 @@
+{
+  "employees": [
+    {
+      "id": "9b11305d-49ff-4e97-900d-b0e86650e410",
+      "name": "Oleg",
+      "position": "fleet dept",
+      "workingHours": "16:00 - 00:00",
+      "workingWeekend": false,
+      "shiftHours": 8,
+      "firstWorkingDay": ""
+    },
+    {
+      "id": "bd82ceaf-92bf-4d5a-ac8a-62d1f0b494d4",
+      "name": "Debby",
+      "position": "day dispatch",
+      "workingHours": "15:00 - 00:00",
+      "workingWeekend": false,
+      "shiftHours": 9,
+      "firstWorkingDay": ""
+    },
+    {
+      "id": "e03fb783-e8f2-41ff-be6e-bcae0d164176",
+      "name": "Jo",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "off"
+    },
+    {
+      "id": "e819752a-48ca-4a77-84eb-d90db64ac773",
+      "name": "Do",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "7:00 - 15:00"
+    },
+    {
+      "id": "77a6c93c-751c-46c7-9c88-928a9541e0ac",
+      "name": "Bo",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "00:00"
+    },
+    {
+      "id": "0f235cb0-780b-403c-a986-27c500209fde",
+      "name": "Ho",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "7:00 - 15:00"
+    },
+    {
+      "id": "a4fc7d49-6c16-48b0-9078-d3f3cb2498e0",
+      "name": "Mo",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "07:00"
+    },
+    {
+      "id": "5f1ceb8f-1255-48b6-8da9-ce2c8b0cdbd6",
+      "name": "Yo",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "off"
+    },
+    {
+      "id": "98e2047c-783c-4d2e-9d08-be120a39b19d",
+      "name": "Lo",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "07:00"
+    },
+    {
+      "id": "d8ac04b2-1b3f-4a8a-8d6f-eafa0d7af271",
+      "name": "Io",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "07:00"
+    },
+    {
+      "id": "46d25589-801f-42f1-af7c-977377885b40",
+      "name": "So",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "00:00"
+    },
+    {
+      "id": "c39d0e6b-2d9c-434c-b572-b12c1a3b8319",
+      "name": "Ko",
+      "position": "night dispatch",
+      "workingHours": [
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "7:00 - 15:00",
+        "00:00",
+        "07:00",
+        "off"
+      ],
+      "workingWeekend": true,
+      "shiftHours": 8,
+      "firstWorkingDay": "7:00 - 15:00"
+    }
+  ],
+  "months": [
+    {
+      "month": "January",
+      "date": 31
+    },
+    {
+      "month": "February",
+      "date": 28
+    },
+    {
+      "month": "March",
+      "date": 31
+    },
+    {
+      "month": "April",
+      "date": 30
+    },
+    {
+      "month": "May",
+      "date": 31
+    },
+    {
+      "month": "June",
+      "date": 30
+    },
+    {
+      "month": "July",
+      "date": 31
+    },
+    {
+      "month": "August",
+      "date": 31
+    },
+    {
+      "month": "September",
+      "date": 30
+    },
+    {
+      "month": "October",
+      "date": 31
+    },
+    {
+      "month": "November",
+      "date": 30
+    },
+    {
+      "month": "December",
+      "date": 31
+    }
+  ],
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026,
+    2027
+  ]
+}
